@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Look at [/_pages/test.markdown]
