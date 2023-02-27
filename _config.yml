@@ -34,7 +34,7 @@ minimal_mistakes_skin: "air"
 
 author:
   name     : "Santiago Núñez-Corrales, Ph.D."
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/bio-photo.jpeg"
   bio      : "Research scientist working on quantum computing and agent-based modeling."
   location : "Urbana IL, USA"
   links:
