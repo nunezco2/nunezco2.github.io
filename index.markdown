@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Look at {% /_pages/test.html %}
+Look at {% link _pages/test.markdown %}
