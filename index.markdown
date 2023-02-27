@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Look at {% /_pages/test/ %}
+Look at {% /_pages/test.html %}
