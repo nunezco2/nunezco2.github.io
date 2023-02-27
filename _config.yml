@@ -18,10 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Complexity Insights Through Quantum Computing and ABMs (CITQCA)
+subtitle: Visual Analytics, National Center for Supercomputing Applications UIUC
+name: Santiago Núñez-Corrales, Ph.D.
 email: nunezco2@illinois.edu
 description: Complexity Insights Through Quantum Computing and ABMs (CITQCA) focuses on understanding complex systems at multiple scales through theory, modeling and computation. We focus on statistical physics, quantum computing and agent-based modeling as the core tools used to reveal unexpected properties of systems.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nunezco2.github.io"
+repository: "nunezco2/nunezco2.github.io"
 twitter_username: snunezcr
 github_username:  nunezco2
 

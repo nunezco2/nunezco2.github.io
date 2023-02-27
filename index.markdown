@@ -5,4 +5,3 @@
 layout: home
 ---
 
-Look at {% link pages/test.markdown %}
