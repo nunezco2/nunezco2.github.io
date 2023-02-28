@@ -11,8 +11,8 @@ layout: single
 
 * Higher algebra: category theory, topos theory, homotopy type theory (HoTT)
 * Stochastic methods: stochastic processes, stochastic differential equations
-* Statistical physics: 
-* Tensor calculus and geometric algebra:
+* Statistical physics: open thermodynamic systems, self-organized criticality
+* Tensor calculus and geometric algebra
 * Hilbert spaces: properties
 
 ### Tools
