@@ -5,7 +5,7 @@
 layout: single
 ---
 
-**CITQCA** focuses on *understanding*, *designing* and *intervening* on systems that are reallistically complex by applying theory and computation commensurate with the challenge at hand. We seek to develop next-generation methods and tools that extend our ability to reason about problems across a wide range of spatial and temporal scales, as well as disciplines.
+**CITQCA** focuses on *understanding*, *designing* and *intervening* on systems that are reallistically complex by applying theory and computation commensurate with the challenge at hand. We seek to develop next-generation methods and tools that extend our ability to reason about hard problems across a wide range of spatial and temporal scales, and different disciplines.
 
 ### Methods
 
