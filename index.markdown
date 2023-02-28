@@ -26,7 +26,7 @@ layout: single
 
 * New quantum algorithms for biomedicine
 * Global security challenges
-* Understanding Intelligence writ large
+* Articial Intelligence writ large
 
 ### Connections
 
