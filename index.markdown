@@ -13,7 +13,6 @@ layout: single
 * Stochastic methods: stochastic processes, stochastic differential equations
 * Statistical physics: open thermodynamic systems, self-organized criticality
 * Tensor calculus and geometric algebra
-* Hilbert spaces: properties
 
 ### Tools
 
