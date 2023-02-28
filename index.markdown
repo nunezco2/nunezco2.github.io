@@ -5,27 +5,28 @@
 layout: single
 ---
 
-**CITQCA** focuses on *understanding*, *designing* and *intervening* on systems that are reallistically complex by applying theory and computation commensurate with the challenge at hand. We seek to develop next-generation methods and tools that extend our ability to reason about hard problems across a wide range of spatial and temporal scales, and different disciplines.
+**CITQCA** focuses on *understanding*, *designing* and *intervening* in systems that are reallistically complex by applying theory and computation commensurate with the challenge at hand. We seek to develop next-generation methods and tools that extend our ability to reason about hard problems across a wide range of spatial and temporal scales, and different disciplines.
 
 ### Methods
 
-* Higher algebra: category theory, topos theory, homotopy type theory (HoTT)
-* Stochastic methods: stochastic processes, stochastic differential equations
-* Statistical physics: open thermodynamic systems, self-organized criticality
+* Higher algebra
+* Stochastic methods
+* Statistical physics
 * Tensor calculus and geometric algebra
+* High-level quantum programming language design
 
 ### Tools
 
 * Quantum computing
 * Agent-based modeling
+* Digital twins for quantum devices
+* Quantum computer architecture
 
 ### Applications
 
-* Quantum device digital twins
-* Quantum computer architecture
-* High-level quantum programming language design
-* New quantum algorithms applications
+* New quantum algorithms for biomedicine
 * Global security challenges
+* Understanding Intelligence writ large
 
 ### Connections
 
