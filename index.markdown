@@ -19,13 +19,14 @@ layout: single
 
 * Quantum computing
 * Agent-based modeling
-* Digital twins for quantum devices
-* Quantum computer architecture
+* Digital twins 
 
 ### Applications
 
 * New quantum algorithms for biomedicine
 * Global security challenges
+* Computational epidemiology
+* Economic-environmental couplings
 * Articial Intelligence writ large
 
 ### Connections
