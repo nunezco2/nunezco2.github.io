@@ -1,7 +1,7 @@
 main:
   - title: "Quantum"
-    url: /_pages/quantum.markdown
+    url: /_pages/quantum/
   - title: "ABM"
-    url: /_pages/abm.markdown
+    url: /_pages/abm/
   - title: "Publications"
-    url: /_pages/publications.markdown
+    url: /_pages/publications/
