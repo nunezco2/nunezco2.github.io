@@ -59,15 +59,15 @@ defaults:
       layout: single
       author_profile: true
     - scope:
-      path: "posts/"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
+        path: "posts/"
+        type: posts
+      values:
+        layout: single
+        author_profile: true
+        read_time: true
+        comments: false
+        share: true
+        related: true
 
 plugins:
   - jekyll-paginate

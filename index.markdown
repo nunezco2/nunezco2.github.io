@@ -19,7 +19,8 @@ layout: single
 
 * Quantum computing
 * Agent-based modeling
-* Digital twins 
+* Digital twins
+* Array programming languages
 
 ### Applications
 
