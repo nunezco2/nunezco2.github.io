@@ -2,6 +2,6 @@ main:
   - title: "Quantum"
     url: /_pages/quantum/
   - title: "ABM"
-    url: /_pages/abm/
+    url: /_pages/abm.markdown
   - title: "Publications"
     url: /_pages/publications/
