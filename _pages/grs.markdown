@@ -1,1 +1,0 @@
-# Global Risk and Security
