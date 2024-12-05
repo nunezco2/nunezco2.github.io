@@ -5,7 +5,7 @@
 layout: single
 ---
 
-**CITQCA** focuses on *understanding*, *designing* and *intervening* in systems that are reallistically complex by applying theory and computation commensurate with the challenge at hand. We seek to develop next-generation methods and tools that extend our ability to reason about hard problems across a wide range of spatial and temporal scales, and different disciplines.
+I am the Quantum Lead Research Scientist at the NCSA, UIUC. My research activities focus on on understanding complex systems at multiple scales through theory, modeling and computation. I make use of quantum computing, statistical physics and agent-based modeling as the core tools used to reveal unexpected properties of systems. I am interested in the application of this theoretical and computational toolbox to global risks and security.
 
 ### Methods
 

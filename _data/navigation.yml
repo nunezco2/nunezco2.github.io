@@ -2,7 +2,7 @@ main:
   - title: "Quantum"
     url: /quantum/
   - title: "ABM"
-    url: /abm.md
+    url: /abm/
   - title: "Global Risk & Security"
     url: /grs/
   - title: "Publications"

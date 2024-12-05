@@ -1,5 +1,7 @@
 ---
+title: Biography
 layout: single
+permalink: /bio/
 ---
 
 ### Biography
