@@ -1,9 +1,11 @@
 main:
-  - title: "Quantum Computing"
+  - title: "Quantum"
     url: /quantum/
   - title: "ABM"
     url: /abm/
-  - title: "Global Risk and Security"
+  - title: "Global Risk & Security"
     url: /grs/
   - title: "Publications"
     url: /publications/
+  - title: "Bio"
+    url: /bio/
