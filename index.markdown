@@ -5,9 +5,9 @@
 layout: single
 ---
 
-I am the Quantum Lead Research Scientist at the NCSA, UIUC. My research activities focus on on understanding complex systems at multiple scales through theory, modeling and computation. Quantum computing, statistical physics and agent-based modeling as the core tools I harness to reveal unexpected properties of systems.
+I am the Quantum Lead Research Scientist at the NCSA, UIUC. My research activities focus on on understanding complex systems at multiple scales through theory, modeling and computation. Quantum computing, statistical physics and agent-based modeling as the core tools I harness to reveal unexpected properties of systems. Additionally, my work applies of this theoretical and computational toolbox to global risks and security.
 
-Additionally, my work seeks to apply of this theoretical and computational toolbox to global risks and security.
+[Extended CV](assets/pdf/CV_NunezCorrales_Most_Recent.pdf)
 
 ### Methods
 
